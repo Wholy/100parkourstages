@@ -2,7 +2,7 @@
 Map: 
 - 100 Parkour Stages
 - Parkour-Arena
-from server IP: parkour.crafterwars.com
+  from server IP: parkour.crafterwars.com
 
 
 Welcome 
