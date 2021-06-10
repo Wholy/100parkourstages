@@ -1,0 +1,33 @@
+**LEVEL 1-10:**
+
+/minecraft:give @p minecraft:paper{Unbreakable:1,display:{Name:'[{"text":"ii","italic":false,"obfuscated":true,"color":"gray"},{"text":" ","obfuscated":false,"color":"white"},{"text":"Levels 1-10 ","obfuscated":false,"color":"white","bold":true},{"text":"ii","bold":false}]',Lore:['[{"text":"","italic":false}]','[{"text":"[","italic":false,"color":"blue"},{"text":"Crafterwars","color":"yellow"},{"text":"]"},{"text":"","color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Certificate of Parkour Award.","italic":false,"color":"aqua"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"(Condensed archive)","italic":false,"color":"gray"}]']},Enchantments:[{id:":unbreaking",lvl:3}],HideFlags:5} 1
+
+------------------------------------------------------------------------------------------------------------------------
+
+**LEVEL 11-20:**
+
+/minecraft:give @p minecraft:paper{Unbreakable:1,display:{Name:'[{"text":"ii","italic":false,"color":"dark_gray","obfuscated":true},{"text":" ","color":"white","obfuscated":false},{"text":"Levels 11-20","color":"gray","obfuscated":false,"bold":true},{"text":" ","color":"white","obfuscated":false,"bold":true},{"text":"ii","bold":false}]',Lore:['[{"text":"","italic":false}]','[{"text":"[","italic":false,"color":"blue"},{"text":"Crafterwars","color":"yellow"},{"text":"]"},{"text":"","color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Certificate of Parkour Award.","italic":false,"color":"aqua"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"(Condensed archive)","italic":false,"color":"gray"}]']},Enchantments:[{id:":unbreaking",lvl:3}],HideFlags:5} 1
+
+------------------------------------------------------------------------------------------------------------------------
+
+**LEVEL 21-30:**
+
+/minecraft:give @p minecraft:paper{Unbreakable:1,display:{Name:'[{"text":"ii","italic":false,"color":"dark_green","obfuscated":true},{"text":" ","color":"white","obfuscated":false},{"text":"Levels 21-30","color":"green","obfuscated":false,"bold":true},{"text":" ","color":"white","obfuscated":false,"bold":true},{"text":"ii","bold":false}]',Lore:['[{"text":"","italic":false}]','[{"text":"[","italic":false,"color":"blue"},{"text":"Crafterwars","color":"yellow"},{"text":"]"},{"text":"","color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Certificate of Parkour Award.","italic":false,"color":"aqua"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"(Condensed archive)","italic":false,"color":"gray"}]']},Enchantments:[{id:":unbreaking",lvl:3}],HideFlags:5} 1
+
+------------------------------------------------------------------------------------------------------------------------
+
+**LEVEL 31-40:**
+
+/minecraft:give @p minecraft:paper{Unbreakable:1,display:{Name:'[{"text":"ii","italic":false,"color":"dark_blue","obfuscated":true},{"text":" ","color":"white","obfuscated":false},{"text":"Levels 31-40","color":"dark_aqua","obfuscated":false,"bold":true},{"text":" ","color":"white","obfuscated":false,"bold":true},{"text":"ii","bold":false}]',Lore:['[{"text":"","italic":false}]','[{"text":"[","italic":false,"color":"blue"},{"text":"Crafterwars","color":"yellow"},{"text":"]"},{"text":"","color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Certificate of Parkour Award.","italic":false,"color":"aqua"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"(Condensed archive)","italic":false,"color":"gray"}]']},Enchantments:[{id:":unbreaking",lvl:3}],HideFlags:5} 1
+
+------------------------------------------------------------------------------------------------------------------------
+
+**LEVEL 41-50:**
+
+/minecraft:give @p minecraft:paper{Unbreakable:1,display:{Name:'[{"text":"ii","italic":false,"color":"gold","obfuscated":true},{"text":" ","color":"white","obfuscated":false},{"text":"Levels 41-50","color":"yellow","obfuscated":false,"bold":true},{"text":" ","color":"white","obfuscated":false,"bold":true},{"text":"ii","bold":false}]',Lore:['[{"text":"","italic":false}]','[{"text":"[","italic":false,"color":"blue"},{"text":"Crafterwars","color":"yellow"},{"text":"]"},{"text":"","color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Certificate of Parkour Award.","italic":false,"color":"aqua"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"(Condensed archive)","italic":false,"color":"gray"}]']},Enchantments:[{id:":unbreaking",lvl:3}],HideFlags:5} 1
+
+------------------------------------------------------------------------------------------------------------------------
+
+**LEVEL 51-60:**
+
+/minecraft:give @p minecraft:paper{Unbreakable:1,display:{Name:'[{"text":"ii","italic":false,"color":"dark_red","obfuscated":true},{"text":" ","color":"white","obfuscated":false},{"text":"Levels 51-60","color":"red","obfuscated":false,"bold":true},{"text":" ","color":"white","obfuscated":false,"bold":true},{"text":"ii","bold":false}]',Lore:['[{"text":"","italic":false}]','[{"text":"[","italic":false,"color":"blue"},{"text":"Crafterwars","color":"yellow"},{"text":"]"},{"text":"","color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Certificate of Parkour Award.","italic":false,"color":"aqua"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"(Condensed archive)","italic":false,"color":"gray"}]']},Enchantments:[{id:":unbreaking",lvl:3}],HideFlags:5} 1
